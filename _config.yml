@@ -1,0 +1,28 @@
+name: planetwalker
+favicon: null
+layout_spectrum: 0.2700030170381069
+typography_spectrum: 0.7804074534215033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24239110969938338
+  lightness: 0.3344894328620285
+  saturation: 0.16526147443801165
+  rhythmicContrast: 0.7555966938380152
+purpose: []
