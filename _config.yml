@@ -2,6 +2,7 @@ name: planetwalker
 favicon: null
 layout_spectrum: 0.32622
 typography_spectrum: 0.13407
+title: 'Walking the Planet, One Step at a Time'
 cta:
   domain: null
   bucket: null
