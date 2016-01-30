@@ -6,24 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:26:36.685Z'
-dateModified: '2016-01-30T21:26:16.701Z'
+datePublished: '2016-01-30T21:32:03.464Z'
+dateModified: '2016-01-30T21:31:59.913Z'
 title: What is the Planet Walker about?
 author: []
+sourcePath: _posts/2016-01-30-what-is-the-planet-walker-about.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-what-is-the-planet-walker-about.md
-published: true
 url: what-is-the-planet-walker-about/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ac6f8ae-72ff-400e-8ff5-256f00f2be24.JPG)
+
 # What is the Planet Walker about?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2497d102-f8af-442a-8a21-405a1866c85e.JPG)
 
 I love to explore this planet of ours.  
 
